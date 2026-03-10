@@ -6,13 +6,34 @@
   {
     "package": "reglin",
     "url": "https://github.com/fndemarqui/reglin"
-  },  
+  },
   {
     "package": "useR",
     "url": "https://github.com/fndemarqui/useR"
-  },  
+  },
   {
     "package": "ufmgthesis",
     "url": "https://github.com/fndemarqui/ufmgthesis"
+  },
+  {
+    "package": "YPPE"
+  },
+  {
+    "package": "YPBP"
+  },
+  {
+    "package": "peppm"
+  },
+  {
+    "package": "bellreg"
+  },
+  {
+    "package": "covid19br"
+  },
+  {
+    "package": "survstan"
+  },
+  {
+    "package": "rsurv"
   }
 ]
