@@ -16,24 +16,31 @@
     "url": "https://github.com/fndemarqui/ufmgthesis"
   },
   {
-    "package": "YPPE"
+    "package": "YPPE",
+    "url": "https://github.com/fndemarqui/YPPE"
   },
   {
-    "package": "YPBP"
+    "package": "YPBP",
+    "url": "https://github.com/fndemarqui/YPBP"
   },
   {
-    "package": "peppm"
+    "package": "peppm",
+    "url": "https://github.com/fndemarqui/peppm"
   },
   {
-    "package": "bellreg"
+    "package": "bellreg",
+    "url": "https://github.com/fndemarqui/bellreg"
   },
   {
-    "package": "covid19br"
+    "package": "covid19br",
+    "url": "https://github.com/fndemarqui/covid19br"
   },
   {
-    "package": "survstan"
+    "package": "survstan",
+    "url": "https://github.com/fndemarqui/survstan"
   },
   {
-    "package": "rsurv"
+    "package": "rsurv",
+    "url": "https://github.com/fndemarqui/rsurv"
   }
 ]
